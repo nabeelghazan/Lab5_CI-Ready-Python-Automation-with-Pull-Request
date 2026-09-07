@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Lab5_CI-Ready-Python-Automation-with-Pull-Request
-=======
 # Lab 5: CI-Ready Python Automation with Pull Request
 
 ## Goal
@@ -20,4 +17,4 @@ Practice GitHub Pull Requests and prepare Python/Bash automation for CI.
 
 ## Deliverable
 A merged Pull Request with a passing GitHub Actions check.
->>>>>>> fcdb277 (Add lab starter files)
+
